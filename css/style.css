@@ -31,3 +31,15 @@ header{
 .navbar-brand img{
     width: 350px;
 }
+
+.banner-heading{
+    font-size: 5rem;
+}
+.buy-now-btn{
+    color: #fff;
+    background: linear-gradient(#A4BC46, #7d8f36);
+    font-size: 14px;
+    border: none;
+    border-radius: 10px;
+}
+/* header css end */
