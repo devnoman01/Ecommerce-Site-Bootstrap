@@ -43,3 +43,20 @@ header{
     border-radius: 10px;
 }
 /* header css end */
+
+
+
+
+
+
+
+
+/* ----------------- mobile css ----------------- */
+@media only screen and (max-width: 767px) {
+    .navbar-brand img{
+        width: 250px;
+    }
+    .banner-heading{
+        font-size: 4rem;
+    }
+}
